@@ -1,5 +1,5 @@
 # Deep-learning
-## DONE BY:
+## EXCERCISES DONE BY:
 ## Juan Carlos Eraso, cod: 201127829
 ## Carlos Quispe Castilla, cod: 201627368
 
